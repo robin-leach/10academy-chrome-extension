@@ -1,0 +1,6 @@
+{
+  "name": "10academy-chrome-extension",
+  "description": "Chrome extension for managing and sharing bookmarks",
+  "version": "1.0",
+  "manifest_version": 3
+}
